@@ -27,8 +27,18 @@ body {
 
 .logo {
     width: 68%;
-    padding-bottom: 2.5rem;
+    padding-bottom: 2rem;
 }
+
+.cont-link-menu {
+    display: flex;
+    color: grey;
+    gap: 0.5rem;
+    font-size: 20px;
+    padding-bottom: 1rem;
+}
+
+
 
 /* CONTENUTO */
 .content {
